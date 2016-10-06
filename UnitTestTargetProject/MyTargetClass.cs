@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UnitTestTargetProject
+namespace UnitTestTargestProject
 {
-    public class MyTargetClass
+    publisc class MyTargetClass
     {
         public int AddNumbers(int pintFirstNumber, int pintSecondNumber)
         {
